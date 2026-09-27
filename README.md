@@ -1,2 +1,9 @@
 # log-tail
-Tail a log file and highlight error/warn lines
+
+Follows a log file, highlights errors red and warnings yellow.
+
+```
+python tail.py /var/log/app.log
+```
+
+MIT licensed.
